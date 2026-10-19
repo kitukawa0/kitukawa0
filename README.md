@@ -1,11 +1,14 @@
-# Hi, Im Daniil | kitukawa
+# Hi, I'm Daniil | kitukawa
 
 Frontend Developer | HTML, CSS, JavaScript  
 Learning Python & Backend
 
-<img src="kitukawa.gif" width="500">
+<img src="kitukawa.gif" width="800">
 
 I build websites and I'm currently working on projects for my portfolio.
 
 ### Stack
 HTML • CSS • JavaScript • Python
+
+### Currently learning
+Backend Development • Git • APIs
