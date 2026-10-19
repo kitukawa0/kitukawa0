@@ -3,7 +3,7 @@
 Frontend Developer | HTML, CSS, JavaScript  
 Learning Python & Backend
 
-<img src="gif/kitukawa.gif" width="500">
+<img src="kitukawa.gif" width="500">
 
 I build websites and I'm currently working on projects for my portfolio.
 
