@@ -1,4 +1,4 @@
-# Hi, I'm Daniil | kitukawa
+# Hi, I'm kitukawa
 
 Frontend Developer | HTML, CSS, JavaScript  
 Learning Python & Backend
